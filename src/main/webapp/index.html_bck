@@ -24,9 +24,9 @@
 <h1> DevOps Demo</h1>
 
 <div class="city">
-  <h1>Automation WorlWide</h1>
-  <h2>Devops Demo For Java based Web application.</h2>
-  <p>Cool to be part of Devops now...</p>
+  <h1>India - WorlWide</h1>
+  <h2>Devops Consulting and implementation services Worldwide.</h2>
+  <p>Cool to be part of Devops training.</p>
 <textarea name="myTextBox" cols="30" rows="5" style="background-color:#FCF5D8;color:#AD8C08;"> Enter some text for complete CICD process. </textarea> 
 </div>
     
