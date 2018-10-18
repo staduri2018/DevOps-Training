@@ -1,4 +1,4 @@
-# Test line - 7
+# Test line - 8
 # DevOps-WebApp project integrated with CI model 
 # Added more lines of code
 -------------------------------
